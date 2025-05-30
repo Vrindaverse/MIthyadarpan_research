@@ -1,0 +1,5 @@
+The Bitcoin scam involving Elon Musk began as part of a broader trend of scammers impersonating celebrities to steal cryptocurrency. These scams started gaining traction around 2018-2019, leveraging Musk's massive online influence. Scammers would create fake Twitter accounts mimicking Musk's profile, often with slight misspellings in the username, and post fraudulent "giveaway" offers. 
+
+The fake tweets claimed that Musk was doubling Bitcoin sent to a provided wallet address as part of a promotion. To make it convincing, the tweets often included replies from other fake accounts "confirming" they had received their doubled funds. In 2020, during a massive Twitter hack, even Musk's verified account was compromised, amplifying the scam globally. 
+
+These scams exploited Bitcoin's irreversible transactions and anonymity. Despite warnings from Musk and others, such scams persist, targeting unsuspecting users lured by the promise of free cryptocurrency. The combination of Musk's tech reputation and Bitcoin's hype made the scam particularly effective.
